@@ -1,0 +1,36 @@
+# Global settings for Visual Studio
+.vs/
+*.vcxproj.*
+*.sln
+*.user
+*.obj
+*.exe
+*.log
+*.ipch
+*.pdb
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+
+# Compilation outputs
+Debug/
+Release/
+x64/
+x86/
+*.dll
+*.lib
+*.exp
+
+# Recycle folders
+[Bb]in/
+[Oo]bj/
+*.db
+
+# Personal settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
